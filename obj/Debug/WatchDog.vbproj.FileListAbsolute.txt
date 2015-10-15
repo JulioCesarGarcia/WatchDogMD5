@@ -1,0 +1,9 @@
+C:\Users\Garcia\OneDrive\Codigo Fuente\SteamPoweredDevelopment\WatchDog\WatchDog\bin\Debug\WatchDog.exe
+C:\Users\Garcia\OneDrive\Codigo Fuente\SteamPoweredDevelopment\WatchDog\WatchDog\bin\Debug\WatchDog.pdb
+C:\Users\Garcia\OneDrive\Codigo Fuente\SteamPoweredDevelopment\WatchDog\WatchDog\bin\Debug\WatchDog.xml
+C:\Users\Garcia\OneDrive\Codigo Fuente\SteamPoweredDevelopment\WatchDog\WatchDog\obj\Debug\WatchDog.Resources.resources
+C:\Users\Garcia\OneDrive\Codigo Fuente\SteamPoweredDevelopment\WatchDog\WatchDog\obj\Debug\WatchDog.vbproj.GenerateResource.Cache
+C:\Users\Garcia\OneDrive\Codigo Fuente\SteamPoweredDevelopment\WatchDog\WatchDog\obj\Debug\WatchDog.exe
+C:\Users\Garcia\OneDrive\Codigo Fuente\SteamPoweredDevelopment\WatchDog\WatchDog\obj\Debug\WatchDog.xml
+C:\Users\Garcia\OneDrive\Codigo Fuente\SteamPoweredDevelopment\WatchDog\WatchDog\obj\Debug\WatchDog.pdb
+C:\Users\Garcia\OneDrive\Codigo Fuente\SteamPoweredDevelopment\WatchDog\WatchDog\obj\Debug\WatchDog.frmPrincipal.resources
