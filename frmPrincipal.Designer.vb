@@ -24,6 +24,7 @@ Partial Class frmPrincipal
     Private Sub InitializeComponent()
         Me.components = New System.ComponentModel.Container()
         Me.GroupBox1 = New System.Windows.Forms.GroupBox()
+        Me.txtMensaje = New System.Windows.Forms.TextBox()
         Me.StatusStrip1 = New System.Windows.Forms.StatusStrip()
         Me.ToolStripStatusLabel1 = New System.Windows.Forms.ToolStripStatusLabel()
         Me.tslblVersion = New System.Windows.Forms.ToolStripStatusLabel()
@@ -35,7 +36,6 @@ Partial Class frmPrincipal
         Me.TextBox1 = New System.Windows.Forms.TextBox()
         Me.Label1 = New System.Windows.Forms.Label()
         Me.niSegundoPlano = New System.Windows.Forms.NotifyIcon(Me.components)
-        Me.txtMensaje = New System.Windows.Forms.TextBox()
         Me.GroupBox1.SuspendLayout()
         Me.StatusStrip1.SuspendLayout()
         Me.GroupBox2.SuspendLayout()
@@ -50,6 +50,14 @@ Partial Class frmPrincipal
         Me.GroupBox1.TabIndex = 6
         Me.GroupBox1.TabStop = False
         Me.GroupBox1.Text = "Mensaje: "
+        '
+        'txtMensaje
+        '
+        Me.txtMensaje.Location = New System.Drawing.Point(6, 19)
+        Me.txtMensaje.Multiline = True
+        Me.txtMensaje.Name = "txtMensaje"
+        Me.txtMensaje.Size = New System.Drawing.Size(346, 51)
+        Me.txtMensaje.TabIndex = 0
         '
         'StatusStrip1
         '
@@ -73,9 +81,9 @@ Partial Class frmPrincipal
         Me.tslblVersion.AutoSize = False
         Me.tslblVersion.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Text
         Me.tslblVersion.Name = "tslblVersion"
-        Me.tslblVersion.Size = New System.Drawing.Size(121, 17)
+        Me.tslblVersion.Size = New System.Drawing.Size(240, 17)
         Me.tslblVersion.Text = "..."
-        Me.tslblVersion.TextAlign = System.Drawing.ContentAlignment.MiddleLeft
+        Me.tslblVersion.TextAlign = System.Drawing.ContentAlignment.MiddleRight
         '
         'GroupBox2
         '
@@ -147,14 +155,6 @@ Partial Class frmPrincipal
         '
         Me.niSegundoPlano.Text = "NotifyIcon1"
         Me.niSegundoPlano.Visible = True
-        '
-        'txtMensaje
-        '
-        Me.txtMensaje.Location = New System.Drawing.Point(6, 19)
-        Me.txtMensaje.Multiline = True
-        Me.txtMensaje.Name = "txtMensaje"
-        Me.txtMensaje.Size = New System.Drawing.Size(346, 51)
-        Me.txtMensaje.TabIndex = 0
         '
         'frmPrincipal
         '

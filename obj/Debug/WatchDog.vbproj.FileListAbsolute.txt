@@ -7,3 +7,4 @@ C:\Users\Garcia\OneDrive\Codigo Fuente\SteamPoweredDevelopment\WatchDog\WatchDog
 C:\Users\Garcia\OneDrive\Codigo Fuente\SteamPoweredDevelopment\WatchDog\WatchDog\obj\Debug\WatchDog.xml
 C:\Users\Garcia\OneDrive\Codigo Fuente\SteamPoweredDevelopment\WatchDog\WatchDog\obj\Debug\WatchDog.pdb
 C:\Users\Garcia\OneDrive\Codigo Fuente\SteamPoweredDevelopment\WatchDog\WatchDog\obj\Debug\WatchDog.frmPrincipal.resources
+C:\Users\Garcia\OneDrive\Codigo Fuente\SteamPoweredDevelopment\WatchDog\WatchDog\obj\Debug\WatchDog.vbprojResolveAssemblyReference.cache
