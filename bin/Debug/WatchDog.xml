@@ -6,6 +6,17 @@ WatchDog
 </name>
 </assembly>
 <members>
+<member name="M:WatchDog.frmPrincipal.Md5_Sum(System.String)">
+ <summary>
+ Funcion que me devuelve la verificacion de la integridad de un archivo
+ en este caso, la integridad de la aplicacion: Ubicada en C:\Enabler\psrvr.exe
+ La verificacion de la instalación da como resultado a comparacion:
+ E5B5337FF9AEF32AA19A84AA51CA497C
+ </summary>
+ <param name="dirExe">Direccion del archivo a verificar</param>
+ <returns>Checksum MD5, del servicio de comunicacion: psrvr.exe</returns>
+ <remarks>En caso de no existir el archivo a verificar regresa un: nothing</remarks>
+</member>
 <member name="T:WatchDog.My.Resources.Resources">
 <summary>
   A strongly-typed resource class, for looking up localized strings, etc.
