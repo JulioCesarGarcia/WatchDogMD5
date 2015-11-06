@@ -6,6 +6,15 @@ WatchDog
 </name>
 </assembly>
 <members>
+<member name="M:WatchDog.frmPrincipal.VerificarMD5">
+ <summary>
+ Segmento que verifica que el Checksum MD5, coincida con lo calculado
+ y documentado en las pruebas de Hermeticidad, para el software 
+ legalmente relevante, en caso de no concordar, el programa apaga el
+ sistema de comunicación cada "X", segundos declarados en la seccion
+ de Variables al principio del Programa.
+ </summary>
+</member>
 <member name="M:WatchDog.frmPrincipal.Md5_Sum(System.String)">
  <summary>
  Funcion que me devuelve la verificacion de la integridad de un archivo
